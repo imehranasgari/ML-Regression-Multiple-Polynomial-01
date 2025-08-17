@@ -81,6 +81,6 @@ A comparison plot of actual vs predicted values for both models is displayed at 
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ```
